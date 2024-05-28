@@ -1,0 +1,14 @@
+Processor 2 handles rows from 2499 to 3061
+Processor 0 handles rows from 0 to 1767
+Processor 3 handles rows from 3061 to 3535
+Processor 1 handles rows from 1767 to 2499
+Processor 4 handles rows from 3535 to 3952
+Processor 7 handles rows from 4677 to 4999
+Processor 6 handles rows from 4330 to 4677
+Processor 5 handles rows from 3952 to 4330
+Geriausias rastas sprendinys (tasku indeksai duomenu masyve): 11	31	35	
+Geriausia reiksme: 285404
+Duomenu ikelimo laikas: 615.101 s.
+Atstumu matricos skaiciavimo laikas: 0.382965 s.
+Sprendinio paieskos laikas: 0.67896 s.
+Naudotu procesoriu skaicius: 8

@@ -65,7 +65,7 @@ int main(int argc, char *argv[]) {
     int start_row = find_row_for_element_count(start);
     int end_row = find_row_for_element_count(end);
 
-    // std::cout << "Processor " << world_rank << " handles rows from " << start_row << " to " << end_row << std::endl;
+    std::cout << "Processor " << world_rank << " handles rows from " << start_row << " to " << end_row << std::endl;
 
     int num_elements = 0;
     for (int i = start_row; i < end_row; i++) {
@@ -158,6 +158,7 @@ int main(int argc, char *argv[]) {
         cout << "Duomenu ikelimo laikas: " << t_1 - t_0 << " s." << endl;
         cout << "Atstumu matricos skaiciavimo laikas: " << t_2 - t_1 << " s." << endl;
         cout << "Sprendinio paieskos laikas: " << t_3 - t_2 << " s." << endl;	
+	cout << "Naudotu procesoriu skaicius: " << world_size << endl;
     }
     MPI_Finalize();
 }

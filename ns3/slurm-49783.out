@@ -1,0 +1,8 @@
+Processor 0 handles rows from 0 to 3535
+Processor 1 handles rows from 3535 to 5000
+Duomenu ikelimo laikas: 521.906 s.
+Atstumu matricos skaiciavimo laikas: 1.01346 s.
+Sprendinio paieskos laikas: 2.65007 s.
+Naudotu procesoriu skaicius: 2
+Geriausias rastas sprendinys (tasku indeksai duomenu masyve): 11	31	35	
+Geriausia reiksme: 285471

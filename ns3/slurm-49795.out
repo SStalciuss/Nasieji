@@ -1,0 +1,38 @@
+Processor 2 handles rows from 1249 to 1530
+Processor 8 handles rows from 2499 to 2651
+Processor 10 handles rows from 2794 to 2931
+Processor 19 handles rows from 3852 to 3952
+Processor 25 handles rows from 4419 to 4506
+Processor 6 handles rows from 2164 to 2338
+Processor 16 handles rows from 3535 to 3644
+Processor 9 handles rows from 2651 to 2794
+Processor 5 handles rows from 1976 to 2164
+Processor 22 handles rows from 4145 to 4238
+Processor 0 handles rows from 0 to 883
+Processor 28 handles rows from 4677 to 4759
+Processor 1 handles rows from 883 to 1249
+Processor 12 handles rows from 3061 to 3186
+Processor 15 handles rows from 3423 to 3535
+Processor 4 handles rows from 1767 to 1976
+Processor 7 handles rows from 2338 to 2499
+Processor 11 handles rows from 2931 to 3061
+Processor 13 handles rows from 3186 to 3307
+Processor 14 handles rows from 3307 to 3423
+Processor 17 handles rows from 3644 to 3749
+Processor 18 handles rows from 3749 to 3852
+Processor 21 handles rows from 4050 to 4145
+Processor 23 handles rows from 4238 to 4330
+Processor 24 handles rows from 4330 to 4419
+Processor 26 handles rows from 4506 to 4592
+Processor 27 handles rows from 4592 to 4677
+Processor 30 handles rows from 4841 to 4921
+Processor 20 handles rows from 3952 to 4050
+Processor 31 handles rows from 4921 to 4999
+Processor 3 handles rows from 1530 to 1767
+Processor 29 handles rows from 4759 to 4841
+Duomenu ikelimo laikas: 703.092 s.
+Atstumu matricos skaiciavimo laikas: 0.302238 s.
+Sprendinio paieskos laikas: 0.209394 s.
+Naudotu procesoriu skaicius: 32
+Geriausias rastas sprendinys (tasku indeksai duomenu masyve): 11	31	35	
+Geriausia reiksme: 285404

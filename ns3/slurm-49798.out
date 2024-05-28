@@ -1,0 +1,70 @@
+Processor 32 handles rows from 3535 to 3590
+Processor 33 handles rows from 3590 to 3644
+Processor 40 handles rows from 3952 to 4001
+Processor 41 handles rows from 4001 to 4050
+Processor 44 handles rows from 4145 to 4192
+Processor 46 handles rows from 4238 to 4284
+Processor 47 handles rows from 4284 to 4330
+Processor 49 handles rows from 4374 to 4419
+Processor 53 handles rows from 4550 to 4592
+Processor 55 handles rows from 4635 to 4677
+Processor 56 handles rows from 4677 to 4718
+Processor 57 handles rows from 4718 to 4759
+Processor 58 handles rows from 4759 to 4800
+Processor 50 handles rows from 4419 to 4463
+Processor 39 handles rows from 3903 to 3952
+Processor 19 handles rows from 2724 to 2794
+Processor 18 handles rows from 2651 to 2724
+Processor 29 handles rows from 3365 to 3423
+Processor 1 handles rows from 624 to 883
+Processor 23 handles rows from 2997 to 3061
+Processor 4 handles rows from 1249 to 1397
+Processor 61 handles rows from 4881 to 4921
+Processor 25 handles rows from 3124 to 3186
+Processor 62 handles rows from 4921 to 4960
+Processor 28 handles rows from 3307 to 3365
+Processor 48 handles rows from 4330 to 4374
+Processor 51 handles rows from 4463 to 4506
+Processor 54 handles rows from 4592 to 4635
+Processor 2 handles rows from 883 to 1082
+Processor 0 handles rows from 0 to 624
+Processor 17 handles rows from 2576 to 2651
+Processor 42 handles rows from 4050 to 4098
+Processor 5 handles rows from 1397 to 1530
+Processor 3 handles rows from 1082 to 1249
+Processor 31 handles rows from 3479 to 3535
+Processor 16 handles rows from 2499 to 2576
+Processor 60 handles rows from 4841 to 4881
+Processor 14 handles rows from 2338 to 2420
+Processor 52 handles rows from 4506 to 4550
+Processor 8 handles rows from 1767 to 1874
+Processor 59 handles rows from 4800 to 4841
+Processor 20 handles rows from 2794 to 2863
+Processor 13 handles rows from 2253 to 2338
+Processor 21 handles rows from 2863 to 2931
+Processor 24 handles rows from 3061 to 3124
+Processor 12 handles rows from 2164 to 2253
+Processor 30 handles rows from 3423 to 3479
+Processor 15 handles rows from 2420 to 2499
+Processor 6 handles rows from 1530 to 1653
+Processor 11 handles rows from 2072 to 2164
+Processor 9 handles rows from 1874 to 1976
+Processor 10 handles rows from 1976 to 2072
+Processor 27 handles rows from 3247 to 3307
+Processor 22 handles rows from 2931 to 2997
+Processor 26 handles rows from 3186 to 3247
+Processor 7 handles rows from 1653 to 1767
+Processor 63 handles rows from 4960 to 4999
+Processor 36 handles rows from 3749 to 3801
+Processor 37 handles rows from 3801 to 3852
+Processor 38 handles rows from 3852 to 3903
+Processor 34 handles rows from 3644 to 3697
+Processor 45 handles rows from 4192 to 4238
+Processor 35 handles rows from 3697 to 3749
+Processor 43 handles rows from 4098 to 4145
+Duomenu ikelimo laikas: 738.869 s.
+Atstumu matricos skaiciavimo laikas: 0.279687 s.
+Sprendinio paieskos laikas: 0.11175 s.
+Naudotu procesoriu skaicius: 64
+Geriausias rastas sprendinys (tasku indeksai duomenu masyve): 11	31	35	
+Geriausia reiksme: 285404
